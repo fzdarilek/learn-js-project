@@ -1,5 +1,6 @@
 // 1. Deposit money
-//. get number of lines
+// 2. get number of lines
+// 3. collect a bet amount
 
 const prompt = require("prompt-sync")();
 
