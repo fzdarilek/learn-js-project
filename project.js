@@ -1,4 +1,5 @@
-// 1 Deposit money
+// 1. Deposit money
+//. get number of lines
 
 const prompt = require("prompt-sync")();
 
