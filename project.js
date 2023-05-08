@@ -130,9 +130,9 @@ const getWinnings = (rows, bet, lines) => {
 
 let balance = deposit();
 const lines = getNumberOfLines();
-const bet = getBet(balance, numberOfLines);
+const bet = getBet(balance, lines);
 const reels = spin();
 const rows = transpose(reels);
 printRows(rows);
 const winnings = getWinnings(rows, bet, lines);
-console.log(winnings)
+console.log("You won $" + winnings)
