@@ -2,6 +2,7 @@
 // 2. Get number of lines
 // 3. Collect a bet amount
 // 4. Spin the slot machine
+// 5. Check if the user won
 
 const prompt = require("prompt-sync")();
 
