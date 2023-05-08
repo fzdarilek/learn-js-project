@@ -1,6 +1,7 @@
 // 1. Deposit money
-// 2. get number of lines
-// 3. collect a bet amount
+// 2. Get number of lines
+// 3. Collect a bet amount
+// 4. Spin the slot machine
 
 const prompt = require("prompt-sync")();
 
