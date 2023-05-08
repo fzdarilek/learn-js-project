@@ -10,3 +10,5 @@ A project after which I'll better understand JavaScript.
 * 6. Give the user their winnings
 * 7. Play again
 
+### TODO
+* Either make it a website or make it look better in the terminal
